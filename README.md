@@ -4,9 +4,4 @@
 
 [![amagiddmxh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amagiddmxh&layout=compact)](https://github.com/AmagiDDmxh/AmagiDDmxh)
 
-- Developing my [blog]
-- Keep seeing my [past self], is cute, and make me want to pursuit myself again
-
-
-[blog]: http://amagi.love/
-[past self]: https://amagiddmxh.github.io/studyBlog/
+My website: http://amagi.love/
