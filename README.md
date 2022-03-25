@@ -2,6 +2,6 @@
 
 [![amagi's github stats](https://github-readme-stats.vercel.app/api?username=amagiddmxh&show_icons=true)](https://github.com/AmagiDDmxh/AmagiDDmxh)
 
-[![amagiddmxh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amagiddmxh&layout=compact)](https://github.com/AmagiDDmxh/AmagiDDmxh)
+![](https://activity-graph.herokuapp.com/graph?username=li-jia-nan&theme=react-dark)
 
 My website: http://amagi.love/
