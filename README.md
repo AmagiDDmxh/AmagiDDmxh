@@ -1,8 +1,9 @@
+My website: http://amagi.love/
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=amagiddmxh.amagiddmxh)
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=AmagiDDmxh&show_icons=true&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmagiDDmxh&layout=compact&hide_border=true" alt="" /> |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-![](https://activity-graph.herokuapp.com/graph?username=AmagiDDmxh&theme=react-dark)
-
-My website: http://amagi.love/
+<div align="center">
+	<img src="mona-loading-default.gif" width="48">
+  <p>More please wait...</p>
+</div>
